@@ -1,6 +1,6 @@
 # UX Design Portfolio
 
-This is a simple, responsive personal UX design portfolio showcasing your projects and design philosophy. It highlights key works such as FocusNotebook and FocusWork, which align with neurodiverse-friendly digital tools.
+This is a simple, responsive personal UX design portfolio showcasing your projects and design philosophy. It highlights key works such as - COMING SOON - which align with neurodiverse-friendly digital tools.
 
 ## 📁 Project Structure
 
