@@ -1,4 +1,4 @@
-# FocusNotebook – Coming Soon
+# MindCanvas – Coming Soon
 
 This project is under development.
 
