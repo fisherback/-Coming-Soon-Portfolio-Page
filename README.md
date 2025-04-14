@@ -1,6 +1,6 @@
-# Focus By Design - UX Portfolio
+# Launching Soon - UX Portfolio
 
-This repository contains the code for **Focus By Design**, a UX portfolio website for [Your Name].
+This repository contains the code for **Launching Soon**, a UX portfolio website for [Your Name].
 
 ## Contents
 
@@ -23,7 +23,7 @@ This repository contains the code for **Focus By Design**, a UX portfolio websit
 
 - **Home:** A clean introduction on the home page, stating the portfolio owner's name and mission.
 - **About Me:** Background information and a list of key UX design principles that the designer follows (with an emphasis on accessibility and inclusive design).
-- **Projects:** A section showcasing projects. It currently includes **FocusNotebook**, with a brief project description, a list of features, and a placeholder for a future demo link. More projects can be added by following the same HTML structure.
+- **Projects:** A section showcasing projects. 
 - **Contact:** Contact information for reaching out to the designer, including email and LinkedIn. (Placeholder contact info is provided and should be replaced with real info.)
 
 ## Design and Accessibility
