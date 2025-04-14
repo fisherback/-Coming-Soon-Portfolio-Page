@@ -86,3 +86,34 @@ section h2 {
   text-align: center;
 }
 
+/* --- Coming Soon Section Styles --- */
+.coming-soon-section {
+  position: relative;
+  height: 100vh;
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  font-size: 3rem;
+  font-weight: bold;
+  text-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+  background: url('https://images.unsplash.com/photo-1581093588401-9a2b7b8e1a94?auto=format&fit=crop&w=1740&q=80') no-repeat center center / cover;
+  filter: blur(0);
+}
+
+.coming-soon-overlay {
+  position: absolute;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.4);
+  backdrop-filter: blur(8px);
+  z-index: 0;
+}
+
+.coming-soon-text {
+  position: relative;
+  z-index: 1;
+  padding: 2rem;
+}
+
+
