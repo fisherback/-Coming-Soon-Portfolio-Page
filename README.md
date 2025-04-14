@@ -1,24 +1,38 @@
-# UX Design Portfolio
+# UX Portfolio
 
-This is a simple, responsive personal UX design portfolio showcasing your projects and design philosophy. It highlights key works such as - COMING SOON - which align with neurodiverse-friendly digital tools.
+This is a clean and accessible portfolio template for UX Designers, especially those designing with neurodiverse needs in mind.
 
-## 📁 Project Structure
+## 📂 Project Structure
 
+- `index.html` – Main portfolio webpage
+- `style.css` – Styling for the webpage
+- `README.md` – Overview of the project and usage instructions
 
-## 🔧 How to Use
+## 🧭 Features
 
-1. Clone or download the project files.
-2. Open `index.html` in your browser to view your portfolio.
-3. Customize the About, Projects, and Contact sections to match your own story.
+- Smooth scrolling nav bar for easy access to: Home, About, Projects, and Contact sections
+- Intro section with call-to-action button
+- About section highlighting UX philosophy
+- Project placeholder
+- Contact information
 
-## 🚀 How to Deploy on GitHub Pages
+## 🚀 How to Use
 
-1. Push this folder to a GitHub repository.
-2. Go to the repository's **Settings**.
-3. Scroll to **Pages**, and select the branch (usually `main`) and root.
-4. Visit the link GitHub provides — your site is live!
+1. **Edit Content:**
+   - Replace placeholder text with your real content in `index.html`
+   - Update email and LinkedIn
+
+2. **Customize Design:**
+   - Adjust colors, fonts, or layout in `style.css`
+
+3. **Deploy on GitHub Pages:**
+   - Push the files to a GitHub repo
+   - Go to repo settings → Pages → set the source to `main` branch
+
+## ✨ Demo
+
+Coming soon!
 
 ---
 
-Made with ❤️ by [Your Name]  
-Inspired by accessibility and inclusive design.
+Created with 💡 and empathy by a UX Designer who gets it.
