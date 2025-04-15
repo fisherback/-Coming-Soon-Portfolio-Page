@@ -1,29 +1,26 @@
-# Focus By Design CO. (Coming Soon)
+# Focus By Design Co. (Coming Soon)
 
-This is a minimalist preview page for my UX Portfolio.
+At Focus By Design, accessibility isn’t optional—it’s essential.
 
-## Live Preview
-
-Check it out on GitHub Pages:  
-[https://your-username.github.io/your-repo-name/](https://your-username.github.io/your-repo-name/)
-
-## Features
-
-- Clean layout with a centered heading and tagline
-- Focused on introducing the UX design mission
-- Navigation and additional content hidden until future updates
-
-## Purpose
-
-This version serves as a "Coming Soon" placeholder while I continue developing the full site and projects.
-
-## How to Use / Customize
-
-To update the content:
-- Edit `index.html` to change the main heading or tagline
-- Edit `style.css` to update visual styles
-- Re-add sections or nav links when the portfolio is ready
+Focus By Design is a UX studio in development, dedicated to creating tools that support clarity, structure, and emotional wellness through accessibility-first design.
 
 ---
 
-© 2025 Focus By Design | Built with ❤️ by Sarah Fishback
+### 🌱 Project Status
+This studio and its products are currently in active development. Stay tuned for updates, prototypes, and launches.
+
+### 💡 About the Creator
+Designed by someone with lived experience, Focus By Design builds with empathy and intentionality—designing tools that work *with* the way real people think and live.
+
+---
+
+### 📌 Coming Soon
+- UX portfolio tools for neurodivergent professionals  
+- Writing, planning, and organization apps for workplace success  
+- Accessibility-first design resources  
+
+---
+
+> Accessibility isn’t just a feature. It’s the foundation.
+
+
