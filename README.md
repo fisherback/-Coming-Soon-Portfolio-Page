@@ -1,38 +1,29 @@
-# UX Portfolio
+# Focus By Design CO. (Coming Soon)
 
-This is a clean and accessible portfolio template for UX Designers, especially those designing with neurodiverse needs in mind.
+This is a minimalist preview page for my UX Portfolio.
 
-## 📂 Project Structure
+## Live Preview
 
-- `index.html` – Main portfolio webpage
-- `style.css` – Styling for the webpage
-- `README.md` – Overview of the project and usage instructions
+Check it out on GitHub Pages:  
+[https://your-username.github.io/your-repo-name/](https://your-username.github.io/your-repo-name/)
 
-## 🧭 Features
+## Features
 
-- Smooth scrolling nav bar for easy access to: Home, About, Projects, and Contact sections
-- Intro section with call-to-action button
-- About section highlighting UX philosophy
-- Project placeholder
-- Contact information
+- Clean layout with a centered heading and tagline
+- Focused on introducing the UX design mission
+- Navigation and additional content hidden until future updates
 
-## 🚀 How to Use
+## Purpose
 
-1. **Edit Content:**
-   - Replace placeholder text with your real content in `index.html`
-   - Update email and LinkedIn
+This version serves as a "Coming Soon" placeholder while I continue developing the full site and projects.
 
-2. **Customize Design:**
-   - Adjust colors, fonts, or layout in `style.css`
+## How to Use / Customize
 
-3. **Deploy on GitHub Pages:**
-   - Push the files to a GitHub repo
-   - Go to repo settings → Pages → set the source to `main` branch
-
-## ✨ Demo
-
-Coming soon!
+To update the content:
+- Edit `index.html` to change the main heading or tagline
+- Edit `style.css` to update visual styles
+- Re-add sections or nav links when the portfolio is ready
 
 ---
 
-Created with 💡 and empathy by a UX Designer who gets it.
+© 2025 Focus By Design | Built with ❤️ by Sarah Fishback
