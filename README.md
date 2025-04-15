@@ -15,12 +15,13 @@ Designed by someone with lived experience, Focus By Design builds with empathy a
 ---
 
 ### 📌 Coming Soon
-- UX portfolio tools for neurodivergent professionals  
-- Writing, planning, and organization apps for workplace success  
-- Accessibility-first design resources  
+### Focus By Design  
+An online UX studio focused on accessibility.  
+A digital space creating accessibility-first resources for modern workspaces.
+ 
 
 ---
 
-> Accessibility isn’t just a feature. It’s the foundation.
+Accessibility isn’t just a feature. It’s the foundation.
 
 
