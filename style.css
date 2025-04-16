@@ -1,29 +1,172 @@
-/* General Styles */
-body {
+/* ========================================================================
+   Focus By Design Co. - Style Sheet
+   An accessibility-first design for a responsive, single-page website
+   ======================================================================== */
+
+/* Basic Reset */
+* {
   margin: 0;
-  font-family: Arial, sans-serif;
-  line-height: 1.6;
-  color: #333;
-  background: #f9f9f9;
+  padding: 0;
+  box-sizing: border-box;
 }
 
-/* Header */
+/* Base Styling for Body & Fonts */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #fafafa;
+  color: #333333;
+  line-height: 1.6;
+}
+
+/* Accessibility: Skip to Main Content Link */
+.skip-link {
+  position: absolute;
+  top: -40px;
+  left: 0;
+  background: #f1f1f1;
+  color: #000;
+  padding: 8px;
+  z-index: 100;
+}
+.skip-link:focus {
+  top: 0;
+}
+
+/* Header & Navigation */
 header {
-  background: #f0f0f0;
-  padding: 4rem;
+  background-color: #6D28D9;
+  color: #ffffff;
+  padding: 1rem;
+}
+header h1 {
+  font-size: 1.75rem;
+  margin-bottom: 0.5rem;
+}
+
+nav {
+  margin-top: 1rem;
+}
+nav ul {
+  display: flex;
+  list-style: none;
+  flex-wrap: wrap;
+  gap: 1rem;
+}
+nav li a {
+  text-decoration: none;
+  color: #ffffff;
+  font-weight: bold;
+  border: 2px solid transparent;
+  padding: 0.5rem;
+  transition: border 0.3s ease;
+}
+nav li a:hover,
+nav li a:focus {
+  border-bottom: 2px solid #ffffff;
+}
+
+/* Main Content Layout */
+main {
+  max-width: 960px;
+  margin: 2rem auto;
+  padding: 0 1rem;
+}
+
+/* Section Styling */
+section {
+  margin-bottom: 3rem;
+}
+section h2 {
+  font-size: 1.5rem;
+  margin-bottom: 1rem;
+  border-bottom: 2px solid #6D28D9;
+  display: inline-block;
+  padding-bottom: 0.25rem;
+}
+
+/* Hero Section (Home) */
+.hero {
+  background-color: #ffffff;
+  border: 1px solid #ddd;
+  padding: 1.5rem;
   text-align: center;
 }
-
-header h1 {
-  margin: 0;
-  font-size: 3rem;
+.hero p {
+  margin: 1rem 0;
+  font-size: 1.1rem;
 }
 
-header p {
-  font-size: 1.5rem;
+/* About Section */
+.about-text {
+  background-color: #ffffff;
+  border: 1px solid #ddd;
+  padding: 1.5rem;
+}
+
+/* Neurodiverse Tools Section */
+.tools-list {
+  background-color: #ffffff;
+  border: 1px solid #ddd;
+  padding: 1.5rem;
   margin-top: 1rem;
 }
 
+/* Contact Section */
+.contact-form {
+  background-color: #ffffff;
+  border: 1px solid #ddd;
+  padding: 1.5rem;
+}
+.contact-form label {
+  display: block;
+  margin-top: 1rem;
+  font-weight: bold;
+}
+.contact-form input,
+.contact-form textarea {
+  width: 100%;
+  padding: 0.5rem;
+  margin-top: 0.25rem;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+.contact-form button {
+  margin-top: 1rem;
+  background-color: #6D28D9;
+  color: #ffffff;
+  padding: 0.75rem 1.5rem;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+.contact-form button:hover {
+  background-color: #5B21B6;
+}
 
+/* Footer Styling */
+footer {
+  background-color: #6D28D9;
+  color: #ffffff;
+  text-align: center;
+  padding: 1rem;
+}
+
+/* Responsive Media Queries */
+@media screen and (max-width: 600px) {
+  header h1 {
+    font-size: 1.4rem;
+  }
+  nav ul {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  .hero p,
+  .about-text,
+  .tools-list,
+  .contact-form {
+    font-size: 1rem;
+  }
+}
 
 
